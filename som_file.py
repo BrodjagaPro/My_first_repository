@@ -1,1 +1,1 @@
-Print("This is a file for GitHub repository")
+print("This is a file for GitHub repository")
